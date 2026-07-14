@@ -1,43 +1,57 @@
----
-title: Поддержка
----
+# Treatment Timeline Support
 
-# Поддержка Treatment Timeline
+If you have a question, need help, or have found a problem in Treatment Timeline, contact the developer:
 
-Если у вас возникли вопросы или вы обнаружили ошибку, свяжитесь с разработчиком:
+[Email Treatment Timeline Support](mailto:safonaultd@gmail.com)
 
-[Написать в поддержку](mailto:safonaultd@gmail.com)
+## What to Include in Your Message
 
-## При обращении в поддержку
+To help investigate the issue, please include:
 
-Укажите:
+- your device model;
+- your iOS or iPadOS version;
+- the Treatment Timeline app version;
+- a short description of the problem; and
+- the steps that led to the problem.
 
-- модель устройства;
-- версию iOS;
-- версию приложения;
-- краткое описание проблемы;
-- действия, после которых возникла ошибка.
+Please do not send medication details, health records, photographs, JSON exports, PDF reports, or other sensitive information unless it is strictly necessary to resolve your request. Remove or obscure personal and health information from screenshots whenever possible.
 
-Не отправляйте медицинские данные, фотографии, PDF-отчёты или другую чувствительную информацию, если это не требуется для решения проблемы.
+## Subscriptions
 
-## Удаление данных
+Monthly and yearly Premium subscriptions are billed and managed by Apple.
 
-Все данные Treatment Companion хранятся локально на устройстве.
+- To restore an active subscription, open the Premium screen in Treatment Timeline and select **Restore Purchases**.
+- To view, change, or cancel a subscription, open **iOS Settings → Apple Account → Subscriptions** and select Treatment Timeline.
+- Deleting the app does not automatically cancel a subscription.
 
-Для полного удаления данных откройте:
+The developer does not have access to payment-card details and cannot issue charges directly. App Store billing and refund requests are handled by Apple.
 
-**Настройки → Удалить все данные**
+## Notifications and Photo Access
 
-Также данные удаляются при удалении приложения с устройства.
+Notification and photo permissions can be reviewed in **iOS Settings → Treatment Timeline**. Basic medication reminders are available without Premium. Additional reminder options require an active Premium subscription.
 
-## Медицинский дисклеймер
+The app receives only the photographs selected through the system photo picker.
 
-Treatment Companion предназначен для самостоятельного ведения записей. Приложение не ставит диагноз, не оценивает эффективность лечения и не рекомендует изменение дозировки.
+## Data and Deletion
 
-При резком ухудшении самочувствия обратитесь за медицинской помощью.
+Treatment Timeline stores treatment records locally on the device and does not require an account.
 
-## Конфиденциальность
+To delete the app's local data, open:
 
-[Открыть политику конфиденциальности](../privacy/)
+**Treatment Timeline → Settings → Delete All Data**
 
-Последнее обновление: ДАТА
+Deleting local app data cannot remove JSON exports, PDF reports, or other copies previously saved or shared outside Treatment Timeline. Those copies must be deleted separately from the relevant app, service, device, or recipient.
+
+Removing Treatment Timeline from the device also removes its local app data, but does not automatically cancel an App Store subscription.
+
+## Medical Disclaimer
+
+Treatment Timeline is intended for personal record-keeping. It does not diagnose medical conditions, assess the effectiveness of treatment, or recommend changes to medication or dosage.
+
+Discuss treatment decisions with a qualified healthcare professional. If you experience severe or rapidly worsening symptoms, seek appropriate medical assistance.
+
+## Privacy
+
+[Read the Treatment Timeline Privacy Policy](https://safonaupv.github.io/treatment-timeline-privacy/privacy/)
+
+Last updated: July 14, 2026
