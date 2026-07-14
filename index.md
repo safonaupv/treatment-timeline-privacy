@@ -1,12 +1,8 @@
----
-title: Treatment Timeline
----
-
 # Treatment Timeline
 
-Приложение для ведения истории лечения и самочувствия между визитами к лечащему специалисту.
+An app for tracking treatment history and well-being between visits to your healthcare provider.
 
-- [Поддержка и контакты](support/)
-- [Политика конфиденциальности](privacy/)
+- [Support](support/)
+- [Privacy Policy](privacy/)
 
-Treatment Timeline не ставит диагноз, не оценивает эффективность лечения и не рекомендует изменение дозировки.
+Treatment Timeline does not diagnose medical conditions, assess treatment effectiveness, or recommend dosage changes.
