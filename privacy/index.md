@@ -1,109 +1,108 @@
----
-title: Политика конфиденциальности
----
-# Политика конфиденциальности Treatment Timeline
+# Treatment Timeline Privacy Policy
 
-Дата вступления в силу: 11 июля 2026 года  
-Редакция: 1.0
+Effective date: July 12, 2026  
+Version: 1.1
 
-## 1. Область действия и оператор
+## 1. Scope and App Operator
 
-Эта Политика описывает обработку данных мобильным приложением Treatment Timeline для iPhone и iPad. Оператором приложения является разработчик Treatment Timeline. Связаться с разработчиком можно по контактам, опубликованным в разделе поддержки на странице приложения в App Store.
+This Privacy Policy explains how the Treatment Timeline mobile application for iPhone and iPad processes information. The app is operated by the developer of Treatment Timeline. You can contact the developer using the details provided in the Support section below.
 
-Treatment Timeline работает без обязательной регистрации и учётной записи. Приложение предназначено для самостоятельной фиксации лечения и самочувствия и не является медицинским изделием, не ставит диагноз и не предоставляет медицинские рекомендации.
+Treatment Timeline does not require registration or a user account. The app is designed to help users keep their own treatment and well-being records. It is not a medical device, does not provide a diagnosis, and does not provide medical advice.
 
-## 2. Какие данные обрабатываются
+## 2. Information Processed by the App
 
-Пользователь может добровольно внести или создать в приложении:
+Users may voluntarily enter or create the following information in the app:
 
-- названия препаратов, дозировки и расписания;
-- даты начала курса и следующего визита;
-- статусы приёмов, фактическое время, причины пропусков и комментарии;
-- отслеживаемые симптомы, интенсивность симптомов и общее самочувствие;
-- текстовые заметки и выбранные фотографии;
-- вопросы для лечащего специалиста;
-- настройки уведомлений, защиты приложения и зафиксированные согласия.
+- medication names, dosages, and schedules;
+- treatment course and next-visit dates;
+- dose statuses, actual intake times, reasons for skipped doses, and comments;
+- tracked symptoms, symptom intensity, and overall well-being;
+- text notes and selected photographs;
+- questions for a healthcare professional;
+- notification, app protection, and consent settings.
 
-Эта информация может относиться к чувствительным данным о здоровье. Пользователь самостоятельно решает, какие сведения вносить.
+Some of this information may be considered sensitive health information. Users decide what information to enter into the app.
 
-## 3. Для чего используются данные
+## 3. How Information Is Used
 
-Данные используются только на устройстве для:
+Information is processed on the device only to provide the app's features, including:
 
-- показа расписания и истории лечения;
-- отметки принятых, пропущенных и отложенных доз;
-- ежедневного check-in самочувствия;
-- создания локальных напоминаний;
-- подготовки отчётов и пользовательского экспорта;
-- защиты доступа к приложению.
+- displaying treatment schedules and history;
+- recording taken, skipped, and postponed doses;
+- completing daily well-being check-ins;
+- scheduling local reminders;
+- creating PDF reports and user-initiated JSON exports; and
+- protecting access to the app.
 
-Treatment Timeline не использует данные для рекламы, профилирования, диагностики, оценки эффективности терапии или автоматического принятия медицинских решений.
+Treatment Timeline does not use this information for advertising, profiling, diagnosis, treatment-effectiveness assessment, or automated medical decision-making.
 
-## 4. Где и как хранятся данные
+## 4. Storage and Backups
 
-Основные записи хранятся локально в Core Data, настройки — в UserDefaults, приложенные фотографии — в каталоге приложения. Для файлов хранилища применяется системная защита данных iOS. Разработчик не получает копию локальной базы и не предоставляет облачную синхронизацию.
+Treatment records are stored locally using Core Data, app settings are stored in UserDefaults, and attached photographs are stored in the app's protected directory. iOS Data Protection is applied to local health-data files. The developer does not receive a copy of the local database and does not provide cloud synchronization.
 
-Treatment Timeline помечает каталог медицинской базы Core Data и каталог приложенных фотографий как исключённые из резервного копирования устройства и iCloud Backup. Этот системный признак обрабатывается iOS; приложение не создаёт и не отправляет облачные копии медицинских данных. Настройки приложения, не содержащие медицинскую историю, могут входить в системную резервную копию устройства.
+Treatment Timeline marks the Core Data health database and attached-photo directory as excluded from device backups and iCloud Backup. This exclusion is handled by iOS. The app does not create or upload cloud copies of health data. App settings that do not contain treatment history may be included in an iOS device backup.
 
-## 5. Разрешения устройства
+## 5. Device Permissions
 
-Приложение может использовать следующие системные возможности:
+Treatment Timeline may use the following iOS features:
 
-- **Уведомления** — для напоминаний о приёмах, check-in и визитах. Текст может быть сделан нейтральным в настройках приложения.
-- **Фотографии** — системный picker предоставляет приложению только изображение, которое пользователь выбрал для check-in.
-- **Face ID, Touch ID или код-пароль устройства** — для локальной блокировки приложения. Сначала iOS предлагает доступный биометрический способ, а при необходимости — код-пароль устройства. Биометрические шаблоны и код-пароль обрабатываются iOS, не передаются и не доступны Treatment Timeline; приложение получает только результат проверки владельца устройства.
+- **Notifications:** used for medication, check-in, and visit reminders. Users may choose neutral notification text in the app's settings.
+- **Photos:** the system photo picker gives the app access only to the photographs selected by the user for a check-in.
+- **Face ID, Touch ID, or the device passcode:** used to protect local access to the app. Biometric templates and the device passcode are processed by iOS and are never available to Treatment Timeline. The app receives only the result of the authentication request.
 
-Разрешения можно изменить в настройках iOS.
+Permissions can be changed in iOS Settings.
 
-## 6. Передача третьим лицам
+## 6. Purchases and Subscriptions
 
-В Treatment Timeline отсутствуют:
+Premium subscriptions are purchased through StoreKit and processed by Apple. Treatment Timeline receives only the App Store information required to verify whether a subscription is active. The app does not have access to payment-card or banking details and does not send purchase or transaction information to a developer-operated server.
 
-- реклама и рекламные SDK;
-- сторонняя продуктовая аналитика;
-- tracking между приложениями и сайтами;
-- автоматическая отправка медицинских данных разработчику или третьим лицам.
+Apple's terms and privacy policy apply to payment processing and the user's Apple Account.
 
-При экспорте или использовании системного Share Sheet пользователь самостоятельно выбирает получателя и сторонний сервис. Такая передача происходит только по явному действию пользователя. После передачи Treatment Timeline не контролирует копию данных; к ней применяются условия и политика выбранного получателя или сервиса.
+## 7. Sharing and Third Parties
 
-Раскрытие данных государственным органам со стороны разработчика невозможно, если разработчик этими данными не располагает. Системные сервисы Apple регулируются собственной политикой Apple.
+Treatment Timeline contains no advertising, advertising SDKs, cross-app or cross-website tracking, or third-party product analytics SDKs. The app does not automatically send health information to the developer or other third parties.
 
-## 7. Срок хранения
+When a user creates an export, generates a report, or uses the iOS Share Sheet, the user chooses the recipient and service. This transfer occurs only after an explicit user action. Once information has been shared, Treatment Timeline cannot control copies held by the recipient or service. Their terms and privacy policies apply.
 
-Локальные данные хранятся до наступления одного из событий:
+Apple system services are governed by Apple's own terms and privacy policy.
 
-- пользователь редактирует или удаляет соответствующую запись;
-- пользователь выбирает «Удалить все данные»;
-- приложение удаляется с устройства;
-- данные приложения очищаются средствами iOS.
+## 8. Retention
 
-Серверного срока хранения нет, поскольку приложение не передаёт данные на сервер разработчика.
+Local information remains on the device until one of the following occurs:
 
-## 8. Экспорт и удаление
+- the user edits or deletes the relevant record;
+- the user selects **Delete All Data** in the app;
+- the app is removed from the device; or
+- the app's data is cleared through iOS.
 
-Пользователь может создать локальный экспорт данных и полностью удалить данные в разделе «Настройки». Удаление включает сведения о лечении, историю приёмов, check-in, заметки, фотографии, вопросы врачу и настройки приложения. Восстановить их средствами Treatment Timeline невозможно.
+There is no separate server-retention period because the app does not send this information to a developer-operated server.
 
-Экспортные файлы и данные, ранее отправленные через Share Sheet, необходимо удалять отдельно в тех приложениях, сервисах или у тех получателей, куда они были сохранены или переданы. При удалении данных Treatment Timeline также отменяет ожидающие локальные напоминания приложения и удаляет уже доставленные уведомления, которыми управляет приложение.
+## 9. Export and Deletion
 
-## 9. Безопасность и ответственность пользователя
+Users can create a local JSON export and delete all app data from **Settings**. Deletion includes treatment information, dose history, check-ins, notes, photographs, questions for a healthcare professional, app settings, and notifications managed by the app. Treatment Timeline cannot restore deleted information.
 
-Приложение использует средства защиты iOS и поддерживает локальную блокировку через Face ID, Touch ID или код-пароль устройства. При включённой блокировке недоступность биометрии не открывает приложение без проверки владельца. Ни один способ хранения не гарантирует абсолютную безопасность. Пользователю рекомендуется защищать устройство код-паролем, своевременно устанавливать обновления iOS и внимательно выбирать получателей экспортируемых данных.
+Exported files, PDF reports, and information previously shared through the iOS Share Sheet must be deleted separately from the apps, services, recipients, or locations to which they were saved or sent.
 
-## 10. Данные детей
+## 10. Security and User Responsibility
 
-Treatment Timeline не предназначен специально для детей и не собирает сведения о возрасте. Несовершеннолетним следует использовать приложение с участием родителя или законного представителя и лечащего специалиста, если этого требует применимое законодательство.
+Treatment Timeline uses iOS security features and supports local app locking with Face ID, Touch ID, or the device passcode. No storage method can guarantee absolute security. Users should protect their device with a passcode, keep iOS up to date, and carefully choose recipients for exported health information.
 
-## 11. Права и контроль пользователя
+## 11. Children's Information
 
-Поскольку данные находятся на устройстве и не передаются разработчику, доступ, исправление, перенос и удаление выполняются самим пользователем средствами приложения и iOS. Если пользователь ранее передал экспорт третьему лицу, запросы в отношении этой копии следует направлять соответствующему получателю.
+Treatment Timeline is not specifically directed to children and does not collect age information. Where required by applicable law, minors should use the app with the involvement of a parent or legal guardian and a healthcare professional.
 
-## 12. Изменения политики
+## 12. User Rights and Control
 
-Политика может обновляться при изменении функций приложения или требований законодательства. При существенном изменении обработки данных приложение предоставит обновлённую редакцию и, когда это необходимо, запросит новое согласие. Дата действующей редакции указана в начале документа.
+Because treatment information remains on the user's device and is not transferred to the developer, users access, correct, export, and delete that information directly through the app and iOS. Requests concerning a copy previously shared with a third party should be directed to the relevant recipient or service.
 
-## 13. Контакты
+## 13. Changes to This Policy
 
-По вопросам конфиденциальности можно связаться с разработчиком:
+This policy may be updated when the app's functionality or applicable legal requirements change. If the way information is processed changes materially, the app will provide an updated policy and request new consent where required. The effective date and version of the current policy are shown at the beginning of this document.
 
-- Email: safonaultd@gmail.com
-- Страница поддержки: [Treatment Companion Support](../support/)
+## 14. Contact
+
+For privacy questions, contact the developer:
+
+- Email: [safonaultd@gmail.com](mailto:safonaultd@gmail.com)
+- Support: [Treatment Timeline Support](https://safonaupv.github.io/treatment-timeline-privacy/support/)
+
